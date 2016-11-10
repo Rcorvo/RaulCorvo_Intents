@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents</string>
+
+    <string name="btn_web">ABRIR PÁGINA WEB</string>
+    <string name="btn_call">LLAMADA DEL TELÉFONO</string>
+    <string name="btn_maps">GOOGLE MAPS</string>
+    <string name="btn_camera">HACER FOTO</string>
+    <string name="btn_send_mail">MANDAR CORREO</string>
+</resources>
