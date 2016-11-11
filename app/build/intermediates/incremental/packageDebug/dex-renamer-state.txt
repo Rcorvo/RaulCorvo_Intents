@@ -1,4 +1,4 @@
-#Thu Nov 10 17:24:49 CET 2016
+#Fri Nov 11 11:22:39 CET 2016
 base.0=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\Intents\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3b5dfed0273a6978c73736a71a8fa110ea43c859
 renamed.1=classes2.dex
 renamed.0=classes.dex

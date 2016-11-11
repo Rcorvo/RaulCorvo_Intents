@@ -331,9 +331,13 @@
     <string name="app_name">Intents</string>
     <string name="btn_call">LLAMADA DEL TELÉFONO</string>
     <string name="btn_camera">HACER FOTO</string>
+    <string name="btn_dialer">DIALER DE TELÉFONO</string>
     <string name="btn_maps">GOOGLE MAPS</string>
     <string name="btn_send_mail">MANDAR CORREO</string>
+    <string name="btn_share">COMPARTIR CON...</string>
+    <string name="btn_street_view">STREET VIEW</string>
     <string name="btn_web">ABRIR PÁGINA WEB</string>
+    <string name="btn_web_search">BUSQUEDA WEB</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

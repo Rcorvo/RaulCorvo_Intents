@@ -6,4 +6,8 @@
     <string name="btn_maps">GOOGLE MAPS</string>
     <string name="btn_camera">HACER FOTO</string>
     <string name="btn_send_mail">MANDAR CORREO</string>
+    <string name="btn_web_search">BUSQUEDA WEB</string>
+    <string name="btn_dialer">DIALER DE TELÉFONO</string>
+    <string name="btn_street_view">STREET VIEW</string>
+    <string name="btn_share">COMPARTIR CON...</string>
 </resources>
